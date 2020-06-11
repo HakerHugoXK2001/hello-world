@@ -1,2 +1,4 @@
 # hello-world
-This is a place where I store ideas, resources, or even share and discuss things with others.
+Hi guys,
+
+This is Hugo, a student major in Electrical Engineering from Zhejiang University and University of Illinois at Urbana Champaign.
